@@ -1,0 +1,177 @@
+/* RESET */
+*{ margin: 0; padding: 0;}
+
+body{font-family: 'Signika', sans-serif;}
+/* NAVBAR */
+.navbar-default{
+	background-color: #fff;
+}
+
+.navbar-default .navbar-brand{
+	color: #2c3e50;
+	font-size: 1.8em;
+}
+
+.navbar-brand>img{
+	margin-top: -4%;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #2c3e50;
+	font-size: 1.3em;
+}
+
+/* ABOUT */
+.header-about h1{
+	color: #2dc1fc;
+	font-size: 4em;
+	padding-bottom: 3%;
+}
+.header-about h4{
+	color: #2c3e50;
+	font-size: 2em;
+	margin-top: 3%;
+}
+
+.about-cols a{
+	text-decoration: none;
+	color: #2c3e50;
+
+}
+
+.about-cols p{
+	color: #2c3e50;
+	padding: 5%;
+	font-size: 1.3em;
+}
+
+.about-col{
+	border: 5px solid #34495e;
+}
+
+/* Services */
+.services{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding-bottom: 8%;
+	padding-top: 8%;
+	border-top: 2px dashed #bdc3c7;
+}
+
+.header-service h1{
+	margin-top: -4%;
+	margin-bottom: 3%;
+	color: #2dc1fc;
+	font-size: 4em;
+}
+
+.header-service h4{
+	margin-bottom: 5%;
+	color: #2c3e50;
+	font-size: 2em;
+}
+
+.services-col img{
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.services-col h3 a{
+	text-decoration: none;
+	color: #2c3e50;
+}
+/* TEAM */
+.team{
+	margin-top: -5%;
+	margin-bottom: 5%;
+	padding-bottom: 8%;
+	padding-top: 8%;
+	border-bottom: 2px dashed #bdc3c7;
+	border-top: 2px dashed #bdc3c7;
+}
+
+.header-team h1{
+	margin-top: -1%;
+	margin-bottom: 3%;
+	color: #2dc1fc;
+	font-size: 4em;
+}
+
+.header-team h4{
+	margin-bottom: 5%;
+	color: #2c3e50;
+	font-size: 2em;
+}
+
+
+.team-col .img-responsive {
+    margin: 0 auto;
+}
+
+/* CONTACT */
+.contact{
+	margin-top: -2%;
+	margin-bottom: 3%;
+	padding-top: 5%;
+}
+
+.header-contact h1{
+	margin-top: -1%;
+	margin-bottom: 5%;
+	color: #2dc1fc;
+	font-size: 4em;
+}
+
+.contact-col1 h2{
+	font-size: 2.8em;
+	color: #2c3e50;
+	padding-bottom: 2%;
+	border-bottom: 2px solid #2c3e50;
+}
+
+.contact-list ul{
+	font-size: 1.3em;
+	color: #2c3e50;
+	margin-top: 15%;
+	margin-left: 8%;
+}
+
+.contact-list ul li{
+	padding-bottom: 6%;
+}
+
+.atend label{
+	padding-right: 2%;
+}
+
+.contact-col2 h2{
+	font-size: 2.8em;
+	color: #2c3e50;
+}
+
+.form-group label{
+	font-size: 1.2em;
+}
+
+.input input, .input textarea{
+	border: 1px solid #2c3e50;
+}
+
+.contact-form{
+	color: #2c3e50;
+	margin-left: 20%;
+}
+
+/* FOOTER */
+footer{
+	margin-top: 5%;
+	padding-top: 2%;
+	padding-bottom: 1%;
+	background-color: #ecf0f1;
+	border-top: 1px solid #bdc3c7;
+}
+
+footer p{
+	color: #2c3e50;
+	font-size: 1.2em
+}
